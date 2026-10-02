@@ -1,6 +1,6 @@
 {
     "_comment": "Pure Heart outfit lists. Bump 'version' whenever you edit anything; game installs pick it up at their next launch without reinstalling. Do not remove the required keys. keep = outfits Monika may wear, block = removed even if present, replace = what she wears instead of a blocked one, events/greetings = locked topic labels, words = any outfit id containing one is removed.",
-    "version": "2.0",
+    "version": "2.1",
     "keep": [
         "def", "blazerless", "blackdress", "marisa", "rin", "santa",
         "nou_shirt",
