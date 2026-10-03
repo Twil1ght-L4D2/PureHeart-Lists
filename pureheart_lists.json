@@ -1,6 +1,6 @@
 {
     "_comment": "Pure Heart outfit lists. Bump 'version' whenever you edit anything; game installs pick it up at their next launch without reinstalling. Do not remove the required keys. keep = outfits Monika may wear, block = removed even if present, replace = what she wears instead of a blocked one, events/greetings = locked topic labels, words = any outfit id containing one is removed.",
-    "version": "2.1",
+    "version": "2.2",
     "keep": [
         "def", "blazerless", "blackdress", "marisa", "rin", "santa",
         "nou_shirt",
@@ -20,7 +20,7 @@
         "mj_darkywgreen_dress_recolor", "mj_lightywgreen_dress_recolor",
         "mj_regywgreen_dress_recolor",
         "delicake_blanket", "pink_polkadot_pajama",
-        "birthday2026_blue_dress"
+        "birthday2026_blue_dress", "kroniichiiwa_cozysweater"
     ],
     "block": [
         "bath_towel_white", "blackpink_dress", "dress_newyears",
